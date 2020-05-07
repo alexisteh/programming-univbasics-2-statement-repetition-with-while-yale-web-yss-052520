@@ -1,5 +1,5 @@
 num = 10 
-while num != 1 do 
+while num != 0 do 
   puts num 
   num -= 1 
 end 
